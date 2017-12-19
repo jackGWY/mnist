@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/python/tensorflow_learning/minist/data_persistence/model2/model2.ckpt"
+all_model_checkpoint_paths: "E:/python/tensorflow_learning/minist/data_persistence/model2/model2.ckpt"

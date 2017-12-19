@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:/python/tensorflow_learning/minist/mode4/mode4.ckpt-29001"
+all_model_checkpoint_paths: "E:/python/tensorflow_learning/minist/mode4/mode4.ckpt-25001"
+all_model_checkpoint_paths: "E:/python/tensorflow_learning/minist/mode4/mode4.ckpt-26001"
+all_model_checkpoint_paths: "E:/python/tensorflow_learning/minist/mode4/mode4.ckpt-27001"
+all_model_checkpoint_paths: "E:/python/tensorflow_learning/minist/mode4/mode4.ckpt-28001"
+all_model_checkpoint_paths: "E:/python/tensorflow_learning/minist/mode4/mode4.ckpt-29001"
